@@ -1,0 +1,18 @@
+.nav{
+    background-color: #333333;
+    padding: 10px;
+    height: 48px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.nav *{
+    display: flex;
+    margin: 0px;
+}
+h1{
+    align-items: center;
+}
+ul{
+    align-items: center;
+}
